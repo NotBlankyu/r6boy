@@ -1,0 +1,17 @@
+{
+  "name": "r6boy",
+  "version": "0.0.1",
+  "description": "r6boy to r6 things",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "blank",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "quick.db": "^7.1.1",
+    "r6api.js": "^1.4.1"
+  }
+}
